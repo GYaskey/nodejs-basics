@@ -1,3 +1,3 @@
-const message = "Hello w1";
+import { startServer } from './server.js';
 
-console.log(message);
+startServer();
